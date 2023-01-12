@@ -1,6 +1,6 @@
 # your code goes here
 for _ in range(int(input())):
-    n=input().split()
+    n = input().split()
     a=n[0]
     b=(n[1])
     d=a[::-1]
